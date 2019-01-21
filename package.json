@@ -1,0 +1,27 @@
+{
+  "name": "tree-traversal",
+  "version": "1.0.0",
+  "description": "a tool for tree data traversing",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha test/traversal-test.js"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "author": "Yidoon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yidoon/tree-traversal"
+  },
+  "license": "MIT",
+  "keywords": [
+    "traversal",
+    "breadth",
+    "depth",
+    "tree",
+    "深度遍历",
+    "广度遍历"
+  ],
+  "main": "traversal.js"
+}
