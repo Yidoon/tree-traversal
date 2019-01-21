@@ -53,30 +53,6 @@ var data = [{
         }
     ]
 }];
-// var options1 = {
-//     data: data,
-//     matchValue: '10',
-//     matchKey: 'id',
-//     storeKey: 'value',
-//     loopKey: 'children',
-//     callback: function (temp) {
-//         // console.log(temp.id)
-//     }
-// }
-// var options2 = {
-//     data: data,
-//     matchValue: '2',
-//     matchKey: 'id',
-//     storeKey: 'value',
-//     loopKey: 'children',
-//     callback: function (temp) {
-//         // console.log(temp.id)
-//     }
-// }
-// var result1 = traversal.path(options1)
-// var result2 = traversal.path(options2)
-// console.log(result1);
-// console.log(result2);
 
 describe('test breadth', function () {
     it('test normal traversal', function () {

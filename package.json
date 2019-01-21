@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "a tool for tree data traversing",
   "scripts": {
-    "test": "node ./node_modules/mocha/bin/mocha test/traversal-test.js"
+    "test": "node ./node_modules/mocha/bin/mocha test/*.spec.js"
   },
   "dependencies": {
     "chai": "^4.2.0",
