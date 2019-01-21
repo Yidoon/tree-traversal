@@ -1,4 +1,3 @@
-# tree-traversal
-a tool for tree data traversing
+# traversal.js
 
-traveral(object, handle, res, key, mode)
+ ---
