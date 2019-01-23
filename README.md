@@ -12,14 +12,15 @@
 
 ### commonjs/AMD
 ```
-npm install tree-traversal
+npm install data-tree-traversal
 ```
 ```
-var traversal = require('path/to/data-traversal');
+var traversal = require('data-tree-traversal');
 ```
 ### 普通引用
 ```
-<script src="path/to/data-traversal/traversal.js"></script>
+直接去github地址，然后下载traversal.js文件即可运行
+[github](https://github.com/Yidoon/tree-traversal)
 ```
 ```
 var traversal = window.traversal;
